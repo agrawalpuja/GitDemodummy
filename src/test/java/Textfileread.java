@@ -14,6 +14,8 @@ public class Textfileread {
 		while(sc.hasNextLine())
 		{
 			System.out.println(sc.nextLine());
+			System.out.println(sc.hasNext());
+			System.out.println(sc.nextLine());
 		}
 
 		 
