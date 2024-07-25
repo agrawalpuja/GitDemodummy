@@ -1,0 +1,29 @@
+{
+ "userDetails":
+ [
+{
+    "firstName" : "Puja",
+    "lastName" : "Agrawal",
+    "city" : "Pune",
+    "paymentType" : "SEPA",
+ },
+
+{
+     
+    "firstName" : "Rohit",
+    "lastName" : "Bajaj",
+    "city" : "Mumbai",
+    "paymentType"  : "SWIFT" ,
+    
+
+},
+
+{
+    "firstName" : "SAM",
+    "lastName" : "LAY",
+    "city" : "Paris",
+    "paymentType"  : "SEPA Instant" ,
+
+}
+]
+}
